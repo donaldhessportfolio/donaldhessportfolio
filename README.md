@@ -9,7 +9,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - ## 🕵️ Honeypot & Detection Engineering
 
-- **[Azure Honeypot Lab – Brute Force & Internet Scanning Analysis](https://github.com/donaldhess86/azure-honeypot-lab)**
+- **[Azure Honeypot Lab – Brute Force & Internet Scanning Analysis](https://github.com/donaldhessportfolio/Azure-SOC-Telemetry-Detection-Lab-Honeypot-Observation-/tree/main)**
  
 
 

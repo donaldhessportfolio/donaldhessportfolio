@@ -6,6 +6,13 @@ I’m passionate about continuously improving my defensive mindset by recreating
 
 ---
 
+## 🏢 Active Directory & Enterprise Labs
+
+- **[Active Directory Enterprise Lab (VMware)](YOUR_LINK_HERE)**  
+  Built a fully functional on-premises Active Directory lab using Windows Server 2022 in VMware, simulating a real enterprise environment. Configured domain services, organizational units, users, and group policies including account lockout protections and security baselines. Implemented domain-joined endpoints to emulate real-world authentication flows and administrative workflows. Designed the environment for security testing, detection engineering, and future SOC simulations such as brute-force detection, privilege escalation scenarios, and log-based investigations.
+
+---
+
 ## ⚠️ Vulnerability Management
 
 - **[Vulnerability Management Program Implementation](https://github.com/donaldhessportfolio/Vulnerability-Management-Program)**  
@@ -36,7 +43,8 @@ I’m passionate about continuously improving my defensive mindset by recreating
 - Detection Engineering (KQL / Defender / Sentinel)  
 - Vulnerability Management Programs  
 - Adversary Simulation & Purple Team Labs  
-- Cloud Security (Azure)
+- Cloud Security (Azure)  
+- Active Directory Security & Enterprise Lab Simulation
 
 ---
 

@@ -25,8 +25,6 @@ I’m passionate about continuously improving my defensive mindset by recreating
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/donaldhessportfolio/Threat-Hunting-Scenario-Tor-Browser-Usage-/tree/main)**  
   Investigated suspicious TOR usage across endpoints using Defender telemetry and KQL-based threat hunting workflows.
 
-- **[Threat Hunt – Crosscheck](https://github.com/donaldhessportfolio/Threat-Hunt-Crosscheck)**  
-  Multi-phase investigation simulating enterprise data theft, including lateral movement analysis, staged exfiltration detection, and behavioral correlation across multiple hosts.
 
 ---
 

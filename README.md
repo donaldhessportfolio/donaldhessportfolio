@@ -32,7 +32,10 @@ I’m passionate about continuously improving my defensive mindset by recreating
 
 ---
 
-## 🏢 Active Directory & Enterprise Labs
+## 🏢 Enterprise IT & Infrastructure Labs
+
+- **[Enterprise IT Helpdesk Lab – LAMP + Active Directory](https://github.com/donaldhessportfolio/Enterprise-IT-Helpdesk-Lab-LAMP-AD)**  
+  Built a full enterprise-style help desk environment combining Active Directory identity infrastructure with a Linux-hosted osTicket deployment on a complete LAMP stack (Apache, MariaDB, PHP). Validated end-to-end service deployment including identity structure, web application hosting, database integration, and operational documentation. Designed to simulate real-world IT support environments spanning Windows and Linux administration.
 
 - **[Active Directory Enterprise Lab (VMware)](https://github.com/donaldhessportfolio/VMware-Active-Directory-Group-Policy/tree/main)**  
   Built an enterprise-style Active Directory lab in VMware using Windows Server 2022. Configured domain services, identity structure, and security baselines including account lockout policies. Designed the lab for SOC simulations including brute-force detection and authentication log analysis.

@@ -15,7 +15,9 @@ I’m passionate about continuously improving my defensive mindset by recreating
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/donaldhessportfolio/Threat-Hunting-Scenario-Tor-Browser-Usage-/tree/main)**  
   Investigated suspicious TOR usage across endpoints using Defender telemetry and KQL-based threat hunting workflows.
-
+  
+- **[Threat Hunt Report – Year-End Bonus Data Theft Campaign](https://github.com/donaldhessportfolio/Threat-Hunt-Crosscheck)**  
+  Reconstructed a multi-phase data theft campaign targeting sensitive HR compensation and employee review data using Microsoft Defender for Endpoint telemetry and KQL. Traced attacker activity from compromised credentials on an initial workstation through lateral movement across HR, IT, Finance, and server systems, identifying reconnaissance, persistence, staging, exfiltration testing, and log-clearing behavior. Produced a full attack timeline with MITRE ATT&CK mapping, detection insights, and remediation recommendations.
 ---
 
 ## ⚠️ Vulnerability Management

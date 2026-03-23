@@ -8,6 +8,11 @@ I’m passionate about continuously improving my defensive mindset by recreating
 
 ---
 
+## 🛠️ Core Tools & Technologies
+Microsoft Defender for Endpoint • Microsoft Sentinel • KQL • Python • Linux • Tenable • Active Directory
+
+---
+
 ## 🚨 Threat Hunting & Security Operations
 
 - **[Threat Hunt: The Broker – Full Intrusion Reconstruction](https://github.com/donaldhessportfolio/Threat-Hunt-The-Broker)**  

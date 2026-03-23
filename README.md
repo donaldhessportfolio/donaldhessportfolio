@@ -16,8 +16,13 @@ I’m passionate about continuously improving my defensive mindset by recreating
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/donaldhessportfolio/Threat-Hunting-Scenario-Tor-Browser-Usage-/tree/main)**  
   Investigated suspicious TOR usage across endpoints using Defender telemetry and KQL-based threat hunting workflows.
 
+---
+
+## 🧪 Security Automation & Scripting
+
 - **[Mini SOC Log Analysis Lab (Linux + Python)](https://github.com/donaldhessportfolio/mini-soc-log-analysis-lab)**  
   Conducted log-based threat analysis on Linux authentication logs to identify suspicious SSH activity and repeated login attempts. Developed a Python-based log parser to extract IP addresses and detect patterns associated with potential brute-force or unauthorized access attempts. Simulated a SOC-style workflow by analyzing system logs, identifying indicators of suspicious behavior, and documenting findings.
+
 ---
 
 ## ⚠️ Vulnerability Management

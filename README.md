@@ -20,6 +20,9 @@ Microsoft Defender for Endpoint • Microsoft Sentinel • KQL • Python • Li
 * **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/donaldhessportfolio/Threat-Hunting-Scenario-Tor-Browser-Usage-/tree/main)**
   Investigated suspicious TOR activity across endpoints using Defender telemetry and KQL-based hunting techniques.
 
+* **[Threat Hunt Crosscheck](https://github.com/donaldhessportfolio/Threat-Hunt-Crosscheck)**
+  Performed cross-analysis of threat hunting findings to validate indicators of compromise and strengthen detection accuracy across multiple data sources.
+
 ---
 
 ## 🧪 Security Automation & Scripting
@@ -69,6 +72,6 @@ Microsoft Defender for Endpoint • Microsoft Sentinel • KQL • Python • Li
 
 ## 🤝 Let’s Connect
 
-If you're interested in collaboration or entry-level SOC opportunities:
+If you're interested in collaboration or IT cybersecurity opportunities:
 
 🔗 [LinkedIn](https://www.linkedin.com/in/donald-hess-042549381/)
